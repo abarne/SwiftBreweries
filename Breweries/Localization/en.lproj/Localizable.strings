@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Breweries
+
+  Created by admin on 7/25/22.
+  
+*/
+
+//localize Name, Street, City, State
+
+"Name" = "Name: ";
+"Street" = "Street: ";
+"City" = "City: ";
+"State" = "State: ";
+"Phone" = "Phone: ";
+"Breweries" = "Breweries";
+"RandomB" = "Random Breweries";
+"LoadingError" = "Error loading data...";
